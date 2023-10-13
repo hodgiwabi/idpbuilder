@@ -1,4 +1,4 @@
-module github.com/cnoe-io/idpbuilder
+module github.com/hodgiwabi/idpbuilder
 
 go 1.20
 
